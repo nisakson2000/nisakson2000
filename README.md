@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Security professional with hands-on experience in **threat hunting**, **incident response**, and **detection engineering** within the financial services sector. I build custom detection logic in **KQL** for Microsoft Sentinel and Defender XDR, investigate phishing campaigns, and develop security automation workflows. Passionate about open-source security tooling and sharing detection content with the community.
+Information Security Analyst by trade, tinkerer by nature. I spend my day job hunting threats and building detections in KQL for Microsoft Sentinel and Defender XDR. Outside of that, I'm teaching myself Python, building random projects with Claude Code, and sharing anything useful along the way. This GitHub is a mix of security detection content, automation tools, and whatever else I'm working on.
 
 ---
 
