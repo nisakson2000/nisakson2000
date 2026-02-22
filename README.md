@@ -43,6 +43,14 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 
 ---
 
+## 🐍 Projects
+
+| Project | Description |
+|:--------|:------------|
+| [Pythic v2](https://github.com/nisakson2000/Pythic-v2) | A feature-rich Discord music bot built with Python and Claude Code. Supports YouTube playback, queue management, loop modes, interactive player controls, and auto-recovery. |
+
+---
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
