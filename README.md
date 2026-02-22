@@ -39,7 +39,7 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 |:---|:---|
 | 🎯 All Queries | [Detection-Hunting-Queries](https://github.com/nisakson2000/Detection-Hunting-Queries) |
 
-> *More queries available on my [Detections.AI profile](https://detections.ai/user/nisakson2000)*
+> *Also published on my [Detections.AI profile](https://detections.ai/user/nisakson2000)*
 
 ---
 
