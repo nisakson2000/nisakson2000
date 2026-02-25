@@ -43,7 +43,7 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 
 ---
 
-## Claude Code Projects
+## 🖥️ Claude Code Projects
 
 | Project | Description |
 |:--------|:------------|
