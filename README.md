@@ -47,6 +47,7 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 
 | Project | Description |
 |:--------|:------------|
+| [Gizmo-AI](https://github.com/nisakson2000/Gizmo-AI) | A fully local AI assistant stack — 27B parameter LLM on GPU via llama.cpp, with web search, voice input/output, image analysis, and memory. Six containerized services, zero cloud dependencies. |
 | [The Codex — D&D Tracker](https://github.com/nisakson2000/dnd-tracker) | A D&D 5e character tracker web app built with React + FastAPI. Manage characters, spells, inventory, combat, journal, NPCs, quests, and lore. Features built-in PHB rules, beginner-friendly tooltips, searchable rules glossary, and an onboarding wizard. |
 | [Pythic v2](https://github.com/nisakson2000/Pythic-v2) | A feature-rich Discord music bot built with Python and Claude Code. Supports YouTube playback, queue management, loop modes, interactive player controls, and auto-recovery. |
 
@@ -62,7 +63,9 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
