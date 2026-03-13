@@ -47,7 +47,7 @@ KQL detection rules and hunting queries for Microsoft Sentinel and Defender XDR,
 
 | Project | Description |
 |:--------|:------------|
-| [Gizmo-AI](https://github.com/nisakson2000/Gizmo-AI) | A fully local AI assistant stack — 27B parameter LLM on GPU via llama.cpp, with web search, voice input/output, image analysis, and memory. Six containerized services, zero cloud dependencies. |
+| [Gizmo-AI](https://github.com/nisakson2000/Gizmo-AI) | A fully local AI assistant stack — 9B parameter LLM + Qwen3-TTS on GPU via llama.cpp, with web search, voice cloning, image analysis, and memory. Six containerized services, zero cloud dependencies. |
 | [The Codex — D&D Tracker](https://github.com/nisakson2000/dnd-tracker) | A D&D 5e character tracker web app built with React + FastAPI. Manage characters, spells, inventory, combat, journal, NPCs, quests, and lore. Features built-in PHB rules, beginner-friendly tooltips, searchable rules glossary, and an onboarding wizard. |
 | [Pythic v2](https://github.com/nisakson2000/Pythic-v2) | A feature-rich Discord music bot built with Python and Claude Code. Supports YouTube playback, queue management, loop modes, interactive player controls, and auto-recovery. |
 
