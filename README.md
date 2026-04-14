@@ -47,25 +47,17 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> Security & Detection
 
-KQL detection rules, hunting queries, and analytics rules for Microsoft Sentinel and Defender XDR. Built from real-world threat hunting and incident response.
+<div align="center">
+  <a href="https://github.com/nisakson2000/Detection-Hunting-Queries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10" alt="Detection-Hunting-Queries"/>
+  </a>
+</div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nisakson2000/Detection-Hunting-Queries">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10" alt="Detection-Hunting-Queries"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-    </td>
-  </tr>
-</table>
+> Hunting and detection queries written in KQL for Microsoft Sentinel and Defender XDR. Built from real-world threat hunting and incident response — with plans to add Sigma translations for cross-platform portability.
 
 ---
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Built with Claude Code
-
-Projects built from scratch using Claude Code — from security tools to web apps and everything in between.
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -73,11 +65,15 @@ Projects built from scratch using Claude Code — from security tools to web app
       <a href="https://github.com/nisakson2000/Gizmo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Gizmo&theme=radical&hide_border=true&border_radius=10" alt="Gizmo"/>
       </a>
+      <br>
+      <sub>A fully local AI assistant — 9B LLM with thinking + vision, neural voice cloning, video/audio analysis, web search, memory, code execution, and Nintendo console themes. Six containers, zero cloud.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/nisakson2000/dnd-tracker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="dnd-tracker"/>
       </a>
+      <br>
+      <sub>D&D 5e campaign character tracker — a local React + FastAPI app for managing characters, spells, inventory, combat, journal, and more. Built-in PHB rules and beginner-friendly onboarding.</sub>
     </td>
   </tr>
   <tr>
@@ -85,11 +81,15 @@ Projects built from scratch using Claude Code — from security tools to web app
       <a href="https://github.com/nisakson2000/Pythic-v2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10" alt="Pythic-v2"/>
       </a>
+      <br>
+      <sub>A feature-rich Discord music bot written in Python. Supports playback, queues, and server management.</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/nisakson2000/meal-prep-calculator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=meal-prep-calculator&theme=radical&hide_border=true&border_radius=10" alt="meal-prep-calculator"/>
       </a>
+      <br>
+      <sub>Meal prep calculator for the Trust The Skinny Chef cookbook — search 154 macro-friendly recipes, select meals, set servings, and get a scaled shopping list with weights in grams and ounces.</sub>
     </td>
   </tr>
 </table>
