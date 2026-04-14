@@ -72,6 +72,15 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/meal-prep-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=meal-prep-calculator&theme=radical&hide_border=true&border_radius=10" alt="meal-prep-calculator"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+    </td>
+  </tr>
 </table>
 
 ---
