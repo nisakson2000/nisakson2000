@@ -45,7 +45,23 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Security & Detection
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/Detection-Hunting-Queries">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10" alt="Detection-Hunting-Queries"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Built with Claude Code
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -55,30 +71,21 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/nisakson2000/Detection-Hunting-Queries">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10" alt="Detection-Hunting-Queries"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
       <a href="https://github.com/nisakson2000/dnd-tracker">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="dnd-tracker"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/nisakson2000/Pythic-v2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10" alt="Pythic-v2"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/nisakson2000/meal-prep-calculator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=meal-prep-calculator&theme=radical&hide_border=true&border_radius=10" alt="meal-prep-calculator"/>
       </a>
-    </td>
-    <td width="50%" align="center">
     </td>
   </tr>
 </table>
