@@ -47,48 +47,58 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
 
-<div align="center">
-
-[![Gizmo](https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Gizmo&theme=radical&hide_border=true&border_radius=10)](https://github.com/nisakson2000/Gizmo)
-[![Detection-Hunting-Queries](https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10)](https://github.com/nisakson2000/Detection-Hunting-Queries)
-
-[![dnd-tracker](https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10)](https://github.com/nisakson2000/dnd-tracker)
-[![Pythic-v2](https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10)](https://github.com/nisakson2000/Pythic-v2)
-
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/Gizmo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Gizmo&theme=radical&hide_border=true&border_radius=10" alt="Gizmo"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/Detection-Hunting-Queries">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Detection-Hunting-Queries&theme=radical&hide_border=true&border_radius=10" alt="Detection-Hunting-Queries"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/dnd-tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="dnd-tracker"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/nisakson2000/Pythic-v2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10" alt="Pythic-v2"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nisakson2000&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisakson2000&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisakson2000&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nisakson2000&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-<br><br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisakson2000&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8)
-
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisakson2000&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"> Trophies
-
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nisakson2000&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisakson2000&theme=redical&hide_border=true&radius=10&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nisakson2000&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,8 +106,18 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 <div align="center">
 
-*"The best defense is a well-crafted detection."*
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisakson2000&theme=redical&hide_border=true&radius=10&area=true&area_color=fe428e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+---
+
+<div align="center">
+  <br>
+
+  *"The best defense is a well-crafted detection."*
+
+  <br>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
