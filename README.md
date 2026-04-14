@@ -45,7 +45,9 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Security & Detection
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> Security & Detection
+
+KQL detection rules, hunting queries, and analytics rules for Microsoft Sentinel and Defender XDR. Built from real-world threat hunting and incident response.
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -61,7 +63,9 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Built with Claude Code
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Built with Claude Code
+
+Projects built from scratch using Claude Code — from security tools to web apps and everything in between.
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
