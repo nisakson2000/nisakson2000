@@ -73,7 +73,7 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="dnd-tracker"/>
       </a>
       <br>
-      <sub>D&D 5e campaign character tracker — a local React + FastAPI app for managing characters, spells, inventory, combat, journal, and more. Built-in PHB rules and beginner-friendly onboarding.</sub>
+      <sub>D&D 5e Campaign Companion App — a native desktop app built with React + Tauri (Rust) for managing characters, campaigns, combat, spells, inventory, and multiplayer sessions. Built-in 5e rules, 2,000+ article wiki, and real-time DM↔Player sync.</sub>
     </td>
   </tr>
   <tr>
