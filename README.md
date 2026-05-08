@@ -22,7 +22,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Information Security Analyst by trade, tinkerer by nature. I spend my day job hunting threats and building detections in KQL for Microsoft Sentinel and Defender XDR. Outside of that, I'm teaching myself Python, building random projects with Claude Code, and sharing anything useful along the way. This GitHub is a mix of security detection content, automation tools, and whatever else I'm working on.
+**Information Security Analyst** specializing in KQL detection engineering for Microsoft Sentinel and Defender XDR.
+
+Currently leveling up in Python and building with Claude Code. This space is a mix of security research, detection logic, and personal projects I find useful enough to share.
 
 - <img src="https://img.shields.io/badge/-CompTIA%20Security+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA Security+** certified
 - <img src="https://img.shields.io/badge/-CompTIA%20CySA+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA CySA+** certified
