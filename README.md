@@ -63,47 +63,83 @@ Information Security Analyst by trade, tinkerer by nature. I spend my day job hu
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Featured Projects
 
-<div align="center">
+<table align="center" border="0">
 
-<a href="https://github.com/nisakson2000/Gizmo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Gizmo&theme=radical&hide_border=true&border_radius=10" alt="Gizmo"/>
-</a>
+<tr>
+<td width="50%" valign="top">
 
-<kbd>🤖 AI Assistant</kbd> &nbsp; <kbd>🐳 Docker</kbd> &nbsp; <kbd>🧠 Local LLM</kbd> &nbsp; <kbd>🎙️ Voice Cloning</kbd>
+### 🤖 [Gizmo](https://github.com/nisakson2000/Gizmo)
 
-> A fully-local AI assistant. 9B LLM with thinking + vision, neural voice cloning, video & audio analysis, web search, persistent memory, code execution, and Nintendo console themes. **Six containers, zero cloud.**
+![Stars](https://img.shields.io/github/stars/nisakson2000/Gizmo?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/Gizmo?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/Gizmo?style=flat-square&color=A855F7&labelColor=1a1b27)
 
-<br>
+A fully-local AI assistant. 9B LLM with thinking + vision, neural voice cloning, video & audio analysis, web search, persistent memory, and code execution.
 
-<a href="https://github.com/nisakson2000/dnd-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="dnd-tracker"/>
-</a>
+**`Six containers. Zero cloud.`**
 
-<kbd>🎲 D&D 5e</kbd> &nbsp; <kbd>⚛️ React</kbd> &nbsp; <kbd>🦀 Tauri</kbd> &nbsp; <kbd>🖥️ Desktop</kbd>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/Local_LLM-4B0082?style=flat-square&logo=openai&logoColor=white)
 
-> A native desktop campaign companion built with **React + Tauri (Rust)**. Manages characters, combat, spells, inventory, and multiplayer sessions — with built-in 5e rules, a 2,000+ article wiki, and real-time DM↔Player sync.
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🎲 [D&D Tracker](https://github.com/nisakson2000/dnd-tracker)
 
-<a href="https://github.com/nisakson2000/Pythic-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10" alt="Pythic-v2"/>
-</a>
+![Stars](https://img.shields.io/github/stars/nisakson2000/dnd-tracker?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/dnd-tracker?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/dnd-tracker?style=flat-square&color=A855F7&labelColor=1a1b27)
 
-<kbd>🎵 Discord Bot</kbd> &nbsp; <kbd>🐍 Python</kbd> &nbsp; <kbd>🎧 Music</kbd>
+Native desktop campaign companion for D&D 5e. Characters, combat, spells, inventory, and multiplayer with built-in rules, a 2,000+ article wiki, and real-time DM↔Player sync.
 
-> A feature-rich Discord music bot in Python. Playback, queues, search, and full server management — designed to be drop-in for any community.
+**`React + Tauri (Rust). One binary.`**
 
-<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<a href="https://github.com/nisakson2000/meal-prep-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=meal-prep-calculator&theme=radical&hide_border=true&border_radius=10" alt="meal-prep-calculator"/>
-</a>
+</td>
+</tr>
 
-<kbd>🥗 Meal Prep</kbd> &nbsp; <kbd>📊 Macros</kbd> &nbsp; <kbd>🌐 Static Web</kbd>
+<tr>
+<td width="50%" valign="top">
 
-> Meal-prep calculator for the *Trust The Skinny Chef* cookbook. Search 154 macro-friendly recipes, scale servings, and export a shopping list with weights in grams **and** ounces.
+### 🎵 [Pythic v2](https://github.com/nisakson2000/Pythic-v2)
 
-</div>
+![Stars](https://img.shields.io/github/stars/nisakson2000/Pythic-v2?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/Pythic-v2?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/Pythic-v2?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Feature-rich Discord music bot. Playback, queues, search, and full server management — designed to drop into any community.
+
+**`Self-host it in minutes.`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 [Meal Prep Calculator](https://github.com/nisakson2000/meal-prep-calculator)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/meal-prep-calculator?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/meal-prep-calculator?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/meal-prep-calculator?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Search 154 macro-friendly recipes from *Trust The Skinny Chef*, scale servings, and export a shopping list with weights in grams **and** ounces.
+
+**`Static. Fast. No backend.`**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+
+</table>
 
 ---
 
