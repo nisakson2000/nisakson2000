@@ -26,6 +26,8 @@
 
 Currently leveling up in Python and building with Claude Code. This space is a mix of security research, detection logic, and personal projects I find useful enough to share.
 
+---
+
 - <img src="https://img.shields.io/badge/-CompTIA%20Security+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA Security+** certified
 - <img src="https://img.shields.io/badge/-CompTIA%20CySA+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA CySA+** certified
 - <img src="https://img.shields.io/badge/-B.A.S.%20Cybersecurity-4B0082?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djQuODJDNSAyMC4xIDYuOSAyMiA5LjI1IDIyYzIuMzUgMCA0LjI1LTEuOSA0LjI1LTQuMjV2LTQuODJsLTQgMi0zLjc1LTEuOTJNOS4yNSA1LjVBMi43NSAyLjc1IDAgMSAxIDEyIDguMjUgMi43NSAyLjc1IDAgMCAxIDkuMjUgNS41TTE3LjUgMTFjMS4zOCAwIDIuNS0xLjEyIDIuNS0yLjVTMTguODggNiAxNy41IDYgMTUgNy4xMiAxNSA4LjVzMS4xMiAyLjUgMi41IDIuNXoiLz48L3N2Zz4=&logoColor=white" height="20"> **B.A.S. Cybersecurity** — Columbia Basin College
