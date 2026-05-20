@@ -22,11 +22,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-**Information Security Analyst** focused on KQL detection engineering for Microsoft Sentinel and Defender XDR. Currently leveling up in Python and building with Claude Code — security research, detection logic, and personal projects I find useful enough to share.
+**Information Security Analyst** specializing in KQL detection engineering for Microsoft Sentinel and Defender XDR.
 
-<img src="https://img.shields.io/badge/-CompTIA%20Security+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> &nbsp;
-<img src="https://img.shields.io/badge/-CompTIA%20CySA+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> &nbsp;
-<img src="https://img.shields.io/badge/-B.A.S.%20Cybersecurity%20%E2%80%94%20Columbia%20Basin%20College-4B0082?style=flat-square&logoColor=white" height="20">
+Currently leveling up in Python and building with Claude Code. This space is a mix of security research, detection logic, and personal projects I find useful enough to share.
+
+---
+
+- <img src="https://img.shields.io/badge/-CompTIA%20Security+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA Security+** certified
+- <img src="https://img.shields.io/badge/-CompTIA%20CySA+-FF0000?style=flat-square&logo=comptia&logoColor=white" height="20"> **CompTIA CySA+** certified
+- <img src="https://img.shields.io/badge/-B.A.S.%20Cybersecurity-4B0082?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djQuODJDNSAyMC4xIDYuOSAyMiA5LjI1IDIyYzIuMzUgMCA0LjI1LTEuOSA0LjI1LTQuMjV2LTQuODJsLTQgMi0zLjc1LTEuOTJNOS4yNSA1LjVBMi43NSAyLjc1IDAgMSAxIDEyIDguMjUgMi43NSAyLjc1IDAgMCAxIDkuMjUgNS41TTE3LjUgMTFjMS4zOCAwIDIuNS0xLjEyIDIuNS0yLjVTMTguODggNiAxNy41IDYgMTUgNy4xMiAxNSA4LjVzMS4xMiAyLjUgMi41IDIuNXoiLz48L3N2Zz4=&logoColor=white" height="20"> **B.A.S. Cybersecurity** — Columbia Basin College
 
 ---
 
@@ -34,15 +38,16 @@
 
 <div align="center">
 
-**Security & Detection**
-
+#### Security & Detection
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Defender XDR](https://img.shields.io/badge/Defender_XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-5C2D91?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-**Languages, Frameworks & Tools**
+#### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,react,svelte,fastapi,rust&theme=dark" alt="Languages and Frameworks"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,react,svelte,fastapi,rust,docker,linux,git,bash,vscode,github&theme=dark" alt="Tech Stack"/>
+#### Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=docker,linux,git,bash,vscode,github&theme=dark" alt="Infrastructure and Tools"/>
 
 </div>
 
@@ -62,36 +67,117 @@
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Featured Projects
 
+<table align="center" border="0">
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Gizmo](https://github.com/nisakson2000/Gizmo)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/Gizmo?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/Gizmo?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/Gizmo?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+A fully-local AI assistant. 9B LLM with thinking + vision, neural voice cloning, video & audio analysis, web search, persistent memory, and code execution.
+
+**`Six containers. Zero cloud.`**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/Local_LLM-4B0082?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎲 [D&D Tracker](https://github.com/nisakson2000/dnd-tracker)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/dnd-tracker?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/dnd-tracker?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/dnd-tracker?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Native desktop campaign companion for D&D 5e. Characters, combat, spells, inventory, and multiplayer with built-in rules, a 2,000+ article wiki, and real-time DM↔Player sync.
+
+**`React + Tauri (Rust). One binary.`**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [Pythic v2](https://github.com/nisakson2000/Pythic-v2)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/Pythic-v2?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/Pythic-v2?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/Pythic-v2?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Feature-rich Discord music bot. Playback, queues, search, and full server management — designed to drop into any community.
+
+**`Self-host it in minutes.`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 [Meal Prep Calculator](https://github.com/nisakson2000/meal-prep-calculator)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/meal-prep-calculator?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/meal-prep-calculator?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/meal-prep-calculator?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Search 154 macro-friendly recipes from *Trust The Skinny Chef*, scale servings, and export a shopping list with weights in grams **and** ounces.
+
+**`Static. Fast. No backend.`**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nisakson2000&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisakson2000&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisakson2000&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
+
 <div align="center">
 
-<a href="https://github.com/nisakson2000/Gizmo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Gizmo&theme=radical&hide_border=true&border_radius=10" alt="Gizmo"/>
-</a>
-<a href="https://github.com/nisakson2000/dnd-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=dnd-tracker&theme=radical&hide_border=true&border_radius=10" alt="D&D Tracker"/>
-</a>
-
-<a href="https://github.com/nisakson2000/Pythic-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=Pythic-v2&theme=radical&hide_border=true&border_radius=10" alt="Pythic v2"/>
-</a>
-<a href="https://github.com/nisakson2000/meal-prep-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=meal-prep-calculator&theme=radical&hide_border=true&border_radius=10" alt="Meal Prep Calculator"/>
-</a>
-
-<a href="https://github.com/nisakson2000/yt-downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisakson2000&repo=yt-downloader&theme=radical&hide_border=true&border_radius=10" alt="yt-downloader"/>
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nisakson2000&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nisakson2000&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisakson2000&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisakson2000&theme=redical&hide_border=true&radius=10&area=true&area_color=fe428e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
