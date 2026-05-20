@@ -1,0 +1,49 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: nisakson2000
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles
+          config_order: base.header, isocalendar, languages, achievements, followup
+
+          # 3D-isometric contribution calendar (full year)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Top languages with depth
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+
+          # GitHub achievements (Mario coin bag, etc.)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+
+          # PR/issue follow-up
+          plugin_followup: yes
+          plugin_followup_indepth: yes

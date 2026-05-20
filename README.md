@@ -18,6 +18,10 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -168,6 +172,12 @@ Local web app for downloading YouTube videos, Music, and Shorts as MP4 (live qua
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+</div>
+
+<br>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
