@@ -143,6 +143,26 @@ Search 154 macro-friendly recipes from *Trust The Skinny Chef*, scale servings, 
 </td>
 </tr>
 
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 🎬 [yt-downloader](https://github.com/nisakson2000/yt-downloader)
+
+![Stars](https://img.shields.io/github/stars/nisakson2000/yt-downloader?style=flat-square&color=A855F7&labelColor=1a1b27&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/nisakson2000/yt-downloader?style=flat-square&color=fe428e&labelColor=1a1b27)
+![Last Commit](https://img.shields.io/github/last-commit/nisakson2000/yt-downloader?style=flat-square&color=A855F7&labelColor=1a1b27)
+
+Local web app for downloading YouTube videos, Music, and Shorts as MP4 (live quality picker) or MP3 (320 / 256 / 128 kbps). Real-time progress with speed and ETA. Browser-cookie auth for age-restricted content.
+
+**`No accounts. No cloud. Just downloads.`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+</td>
+</tr>
+
 </table>
 
 ---
