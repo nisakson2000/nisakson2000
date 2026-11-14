@@ -24,7 +24,6 @@
 
 | | Quest | Status |
 |:-:|---|:-:|
-| 🎲 | **D&D Tracker** · campaign companion app, being rebuilt from the ground up | `⚒️ FORGING` |
 | 🔬 | **[rea-schwiftyfork](https://github.com/nisakson2000/rea-schwiftyfork)** · reverse-engineer anything with agents, from app behavior to native binaries | `🧭 EXPLORING` |
 | 🛡️ | **[Detection-Hunting-Queries](https://github.com/nisakson2000/Detection-Hunting-Queries)** · KQL threat-hunting & detection queries for Sentinel / Defender XDR | `🔁 REPEATABLE` |
 | 🎬 | **[yt-downloader](https://github.com/nisakson2000/yt-downloader)** · local Flask + yt-dlp app for MP4 / MP3 downloads with live progress | `✅ CLEARED` |
